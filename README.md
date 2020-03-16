@@ -19,6 +19,9 @@ The conclusion is that these three approaches were very effective additions to t
 
 # Files
 [EDA - Analytics](https://github.com/chicagocityarts60515/ShakesNLPCaptone/blob/master/Shakespeare_Analytics.ipynb)
+
 [Sentiment Analysis](https://github.com/chicagocityarts60515/ShakesNLPCapstone/blob/master/Sentiment_Analysis.ipynb)
+
 [Classification Modeling](https://github.com/chicagocityarts60515/ShakesNLPCapstone/blob/master/ClassificationModeling.ipynb)
+
 [PowerPoint Overview](https://github.com/chicagocityarts60515/ShakesNLPCapstone/blob/master/Shakespeare.pptx)
