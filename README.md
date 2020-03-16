@@ -16,3 +16,9 @@ This project explored the use of an NLP approach to the collected plays of Willi
 The corpus text was downloaded from the following page on Kaggle: https://www.kaggle.com/kingburrito666/shakespeare-plays
 
 The conclusion is that these three approaches were very effective additions to traditional methods of literary analysis and warrant further, more extensive exploration. 
+
+# Files
+[EDA - Analytics](https://github.com/chicagocityarts60515/ShakesNLPCaptone/blob/master/Shakespeare_Analytics.ipynb)
+[Sentiment Analysis](https://github.com/chicagocityarts60515/ShakesNLPCapstone/blob/master/Sentiment_Analysis.ipynb)
+[Classification Modeling](https://github.com/chicagocityarts60515/ShakesNLPCapstone/blob/master/ClassificationModeling.ipynb)
+[PowerPoint Overview](https://github.com/chicagocityarts60515/ShakesNLPCapstone/blob/master/Shakespeare.pptx)
